@@ -1,7 +1,6 @@
-http://www.gutenberg.org/ebooks/2488 
+Link to Google Sheets:
+https://docs.google.com/spreadsheets/d/1G-jLYV2xVLZrudckg3pJGJbcNCUSak38jnKhzU4vH5s/edit?usp=sharing
 
-https://archive.org/details/twentythousandle00verniala
-
-https://s3.amazonaws.com/scschoolfiles/112/20t_with_5th_reprint_revisions.pdf
+#ToDo add the readme...
 
 
