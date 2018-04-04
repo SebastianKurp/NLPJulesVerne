@@ -1,10 +1,11 @@
 #Imports
 import PyPDF2 
 import textract
+import string
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
-filename = 'enter the name of the file here' 
+filename = './2015.221012.Twenty-Thousand_text.pdf' 
 
 pdfFileObj = open(filename,'rb')
 
@@ -33,6 +34,6 @@ stop_words = stopwords.words('english')
 #Remove stop words and punctuation from the parse pdf
 keywords = [word for word in tokens if not word in stop_words and  not word in string.punctuation]
 #Make lowerCase from keywords
-lowerKeyword =[stripped.lower() for word in keyword]
+# lowerKeyword =[stripped.lower() for word in keywords]
 
-print(words[:100])
+print(keywords[:100])
