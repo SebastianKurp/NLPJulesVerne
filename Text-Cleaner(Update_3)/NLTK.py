@@ -31,12 +31,3 @@ for word in nonStopWords:
     processed.write('\n'+ word) 
 processed.close()
 print('Text Exported')
-
-#TODO: Remove this...
-# #Tokenized sentences for chunking and print to a txt file
-# sent_tokens = sent_tokenize(text)
-# print( sent_tokens[:2] )
-# sentProcessed = open('Text-Cleaner(Update_3)/sentProcessed.txt','w',encoding='utf-8')
-# sentProcessed.writelines(sent_tokens)
-# sentProcessed.close()
-# print('Sentence Processed')

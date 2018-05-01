@@ -15,7 +15,7 @@ tokens = word_tokenize(text)
 #POSTag the words
 PosTag = pos_tag(tokens)
 
-Print To Txt The Words And Tags, could probably do as a csv...
+#Print To Txt The Words And Tags, could probably do as a csv...
 print(PosTag[:2])
 POSTagged = open('POS(Update_4)/POSTagged.txt','w',encoding= 'utf-8')
 for item in PosTag:
