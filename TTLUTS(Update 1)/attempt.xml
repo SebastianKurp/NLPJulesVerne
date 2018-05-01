@@ -1,0 +1,29 @@
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Twenty Thousand Leagues Under The Sea</title>
+        <author>Jules Verne</author>
+        <respStmt>
+          <resp>transcription</resp>
+          <name xml:id="SK">Sebastian Kurpiel</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>SAPE The Booklovers Library</publisher>
+        <date when="1986">1986</date>
+        <country>Spain</country>
+        <idno type="ISBN">84-401-1473-7</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Twenty Thousand Leagues Under The Sea</title>by<author>Jules Verne</author><pubplace>Spain</pubplace>:<publisher>SAPE The Booklovers Library</publisher><date when="1986">1986</date>></bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="Introduction">
+      </div>
+    </front>
+  </text>
+</TEI>
